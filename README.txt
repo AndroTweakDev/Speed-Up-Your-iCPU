@@ -1,4 +1,4 @@
-**** Speed Up Your iCPU "SUYiCPU" 1.0 ****
+**** Speed Up Your iCPU "SUYiCPU" 1.1.0 ****
 
 --- How to install: --- 
 
