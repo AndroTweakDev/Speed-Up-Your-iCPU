@@ -22,6 +22,10 @@ iOS 6.x:
 
 (WiP)
 
+--- Fix: ---
+
+In the fix folder, you can see some fix, the instructions is included in the folders.
+
 --- Special Thanks: ---
 
 VinC0deur: For helping me to enhance my mod & test it in iOS 3.1.3, 4.0, 4.0.1, 4.0.2, 4.1 & 4.2.1 (http://twitter.com/VinC0deur)
